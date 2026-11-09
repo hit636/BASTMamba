@@ -1,8 +1,9 @@
 
 
-This is an official implementation of [ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting].
+This is an official implementation of [BAST-Mamba: Boundary-Aware Shifted Tokenization with Multiscale Fusion for Time Series Forecasting].
 
-<img width="1120" height="790" alt="image" src="https://github.com/user-attachments/assets/e3be103a-8c9c-4afb-a4ff-9ec4e35d08e7" />
+<img width="1950" height="1410" alt="image" src="https://github.com/user-attachments/assets/e96a238e-38d8-4e7d-b5dd-d60b3fe89ee1" />
+
 
 
 
@@ -57,7 +58,8 @@ The training scripts for all datasets are located in the `./scripts` directory.
 If you find this repo useful, please cite our paper as follows:
 
 ```
-ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting
+BAST-Mamba: Boundary-Aware Shifted Tokenization with Multiscale Fusion for Time Series Forecasting
+
 
 ```
 
